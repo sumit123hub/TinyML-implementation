@@ -1,0 +1,11 @@
+Product_ID,Product_Name,Category,Quantity_Received,Unit_Price,Supplier_Name,Received_Date,Warehouse_Location,SKU
+1011,Wireless Mouse,Electronics,150,12.99,TechSupply Inc,2025-06-30,Warehouse A,WM-TS-001
+1012,HDMI Cable 2m,Electronics,200,4.50,ConnectCo,2025-07-01,Warehouse A,HDMI-CC-002
+1013,Office Chair,Furniture,20,89.99,ChairWorld,2025-07-02,Warehouse B,OC-CW-010
+1014,Notebook A5,Stationery,500,1.20,WriteItUp,2025-07-02,Warehouse C,NB-WU-105
+1015,LED Desk Lamp,Electronics,80,18.50,LightHouse Ltd,2025-07-01,Warehouse A,DL-LH-305
+1016,Refill Pens Blue,Stationery,300,0.75,WriteItUp,2025-07-02,Warehouse C,RPB-WU-310
+1017,Portable SSD 1TB,Electronics,40,74.99,TechSupply Inc,2025-07-01,Warehouse A,SSD-TS-501
+1018,Whiteboard Marker Set,Stationery,120,3.99,OfficeBasics,2025-06-29,Warehouse C,WM-OB-701
+1019,Laptop Stand,Accessories,90,22.00,GadgetZone,2025-07-01,Warehouse B,LS-GZ-403
+1020,Paper Clips 100pcs,Stationery,1000,0.99,ClipMania,2025-07-02,Warehouse C,PC-CM-905
